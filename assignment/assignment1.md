@@ -12,11 +12,14 @@ In conclusion, a field that inspires me and proves to be an avid supporter of Bi
 
 ## Works Cited
 
-1. “Artificial Intelligence Gets to Work in the Automotive Industry.” Automotive World, 2019,    www.automotiveworld.com/articles/artificial-intelligence-gets-to-work-in-the-automotive-industry/. 
-   “Cars Produced This Year:” Worldometer, 2016, www.worldometers.info/cars/. 
-2. Corporation., Toyota Motor. 
-   “トヨタ: How Long Does It Actually Take to Make a Car?” トヨタ自動車株式会社 公式企業サイト, 2014, www.toyota.co.jp/en/kids/faq/b/01/06/. 
-   Tracy, Suzanne. “Making Automotive Manufacturing Smarter with AI.” CIO, 6 Mar. 2019, www.cio.com/article/3355239/making-automotive-manufacturing-smarter-with-ai.html. 
+1. “Artificial Intelligence Gets to Work in the Automotive Industry.”
+     Automotive World, 2019,    www.automotiveworld.com/articles/artificial-intelligence-gets-to-work-in-the-automotive-industry/. 
+2. “Cars Produced This Year:” 
+     Worldometer, 2016, www.worldometers.info/cars/. 
+3. Corporation., Toyota Motor. “トヨタ: How Long Does It Actually Take to Make a Car?” 
+     トヨタ自動車株式会社 公式企業サイト, 2014, www.toyota.co.jp/en/kids/faq/b/01/06/. 
+4. Tracy, Suzanne. “Making Automotive Manufacturing Smarter with AI.” 
+     CIO, 6 Mar. 2019, www.cio.com/article/3355239/making-automotive-manufacturing-smarter-with-ai.html. 
 
 
 
